@@ -1,0 +1,14 @@
+!DOCTYPE html
+html
+head
+  titleHello from Azuretitle
+  style
+    body { font-family Arial; text-align center; margin-top 100px; }
+    h1 { color #0078D4; }
+  style
+head
+body
+  h1🚀 Hello from Azure App Service!h1
+  pThis is your test app running from GitHub deployment.p
+body
+html
